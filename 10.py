@@ -2,6 +2,6 @@
 
 #Each word startsbwith a capitalmletter:
 
-myVaeiableName = "aju is cute"
+myVariableName = "aju is cute"
 
-print(myVaeiableName)
+print(myVariableName)

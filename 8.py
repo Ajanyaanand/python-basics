@@ -16,7 +16,7 @@
 #Legal variable names:
 myvar = "ajanya"
 my_var = "ajanya"
--my_var = "ajanya"
+_my_var = "ajanya"
 MyVar = "ajanya"
 MYVAR = "ajanya"
 mayvar2 = "ajanya"
